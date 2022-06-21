@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saransh Notes</string>
+    <string name="prefName">MyNotesApp</string>
+    <string name="prefItem">MyNotesList</string>
+</resources>
